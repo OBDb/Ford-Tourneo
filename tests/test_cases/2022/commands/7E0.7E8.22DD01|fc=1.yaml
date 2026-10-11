@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    TOURNEO_ODO_7E0: 37636
+  response: 7E80662DD01009304
+- expected_values:
+    TOURNEO_ODO_7E0: 37827
+  response: 7E80662DD010093C3
+- expected_values:
+    TOURNEO_ODO_7E0: 39490
+  response: 7E80662DD01009A42

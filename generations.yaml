@@ -1,0 +1,9 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Transit_Custom"
+  - "https://en.wikipedia.org/wiki/Ford_Transit_Connect"
+
+generations:
+  - name: "Tourneo Custom and Tourneo Connect (passenger Transit)"
+    start_year: 2012
+    end_year: null
+    description: "The Tourneo is the passenger version of the Transit Custom and Transit Connect vans, with Ford EcoBlue diesel, EcoBoost gasoline and plug-in hybrid powertrains."

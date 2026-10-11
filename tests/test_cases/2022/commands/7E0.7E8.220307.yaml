@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    TOURNEO_LPFP_DUTY: 34.33838
+  response: 7E8056203072BF4
+- expected_values:
+    TOURNEO_LPFP_DUTY: 42.1875
+  response: '7E8056203073600'
+- expected_values:
+    TOURNEO_LPFP_DUTY: 42.9657
+  response: 7E80562030736FF
+- expected_values:
+    TOURNEO_LPFP_DUTY: 74.99695
+  response: 7E8056203075FFF

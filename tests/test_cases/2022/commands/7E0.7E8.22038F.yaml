@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22038F
+test_cases:
+- expected_values:
+    TOURNEO_ECT: 13.5625
+  response: 7E80562038F0364
+- expected_values:
+    TOURNEO_ECT: 15.96875
+  response: 7E80562038F03FE
+- expected_values:
+    TOURNEO_ECT: 24.0625
+  response: 7E80562038F0604
+- expected_values:
+    TOURNEO_ECT: 96.0625
+  response: 7E80562038F1804

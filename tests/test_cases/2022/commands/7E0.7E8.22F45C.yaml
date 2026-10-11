@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F45C
+test_cases:
+- expected_values:
+    TOURNEO_EOT_F45C: 12
+  response: 7E80462F45C34
+- expected_values:
+    TOURNEO_EOT_F45C: 103
+  response: 7E80462F45C8F

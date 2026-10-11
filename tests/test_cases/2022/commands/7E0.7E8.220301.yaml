@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220301
+test_cases:
+- expected_values:
+    TOURNEO_MAP_V: 1.01367
+  response: 7E805620301040E
+- expected_values:
+    TOURNEO_MAP_V: 1.24805
+  response: 7E80562030104FE
+- expected_values:
+    TOURNEO_MAP_V: 2
+  response: '7E8056203010800'
+- expected_values:
+    TOURNEO_MAP_V: 3.26562
+  response: 7E8056203010D10

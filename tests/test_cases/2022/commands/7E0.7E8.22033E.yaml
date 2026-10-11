@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22033E
+test_cases:
+- expected_values:
+    TOURNEO_TIP_ABS: 12.25367
+  response: 7E80562033E2B43
+- expected_values:
+    TOURNEO_TIP_ABS: 14.44329
+  response: 7E80562033E32FE
+- expected_values:
+    TOURNEO_TIP_ABS: 21.81098
+  response: 7E80562033E4D01
+- expected_values:
+    TOURNEO_TIP_ABS: 37.3275
+  response: 7E80562033E83C9
